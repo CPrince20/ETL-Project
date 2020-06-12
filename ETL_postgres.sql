@@ -35,3 +35,5 @@ SELECT dow.date, dow.dow_open, dow.dow_close, eth.eth_open, eth.eth_close
 FROM dow
 JOIN eth
 ON dow.date = eth.date;;
+
+SELECT * from dow_eth
