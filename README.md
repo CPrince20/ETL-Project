@@ -8,10 +8,11 @@ First we gathered our data from two sources
 
 For the data on Ethereum we used a CSV file from this website:
 https://cointelegraph.com/ethereum-price-index
+see Eth
 
 For the data on the DOW Jones Industrial Average we used a CSV file from Yahoo finance:
 https://finance.yahoo.com/quote/%5EDJI/history?period1=1483228800&period2=1514592000&interval=1d&filter=history&frequency=1d
-
+see DOW.csv for raw data
 
 Transform
 
